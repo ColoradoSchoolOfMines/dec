@@ -1,0 +1,34 @@
+DISCOVER goes to current Discovering Technology page
+EXPLORE goes to current Exploring Technology page
+CREATE goes to Creating Technology page, etc.
+
+f. Below slideshow is Sponsor area and copyright etc.
+
+The FIRST page of the document corresponds to the internal pages.
+when the user clicks DISCOVER for example,
+	the site links move to the top right with Mines below,
+	and logo still on left.
+	Gray bar includes links that are buttons on current
+	DISCOVER page and so on.
+Content goes in the rectangle below gray bar
+	(rectangle not necessary unless you want)
+
+----------------------------------------------------------------------
+
+Let's fix the width of the content area (so it doesn't change with the window sizing).
+
+----------------------------------------------------------------------
+WAITING FOR LISA:
+
+Photo slideshow -- I will include images in a subsequent email.
+
+I will send you a gif or jpg of the logo with the text included.
+
+----------------------------------------------------------------------
+
+BEFORE LAUNCH:
+
+Real Links
+Absolute hrefs for <link css> tags
+
+----------------------------------------------------------------------
