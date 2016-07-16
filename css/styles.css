@@ -8,3 +8,17 @@ img#front-page {
 	margin: auto;
 	display: block;
 }
+
+.good-bad-news > iframe {
+	margin: auto;
+	display: block;	
+}
+
+.good-bad-news {
+	text-align: left;
+	max-width: 80%;
+	margin: auto;
+	display: block;
+	border-bottom: 1px solid black;
+	padding-bottom: 20px;
+}
