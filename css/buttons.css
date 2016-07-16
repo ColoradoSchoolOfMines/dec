@@ -1,12 +1,37 @@
-.class-buttons {
-	margin: auto;
-	display: block;
+/* smaller buttons for internal pages */
+.class-buttons#internal {
+	max-width: 80%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: right;
+}
+
+.class-buttons#internal > button {
+	width: 50px;
+	height: 50px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	margin: 0px 5px;
+}
+
+/* larger buttons for homepage */
+.class-buttons#homepage {
 	max-width: 80%;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
 }
+.class-buttons#homepage > button {
+	width: 150px;
+	height: 150px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	border-radius: 75px;
+	margin: 10px 20px;
+}
 
+/* Default styles regardless of size of buttons */
 .class-buttons > button {
 	vertical-align: middle;
 	text-align: center;
@@ -16,14 +41,14 @@
 	border: none;
 	font-weight: bold;
 	font-size: 1.1em;
-	width: 150px;
-	height: 150px;
-	-webkit-border-radius: 75px;
-	-moz-border-radius: 75px;
-	border-radius: 75px;
-	margin: 10px 20px;
+}
+.class-buttons {
+	margin: auto;
+	display: block;
 }
 
+
+/* Colors */
 .class-buttons > button#discover {
 	background-color: #00B0F0;
 }

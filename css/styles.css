@@ -3,6 +3,14 @@ body {
 	padding: 10px;
 }
 
+.content {
+	max-width: 80%;
+	margin: auto;
+	display: block;
+	border: 3px outset #DC3FEF;
+	padding: 20px;
+}
+
 img#front-page {
 	max-width: 80%;
 	margin: auto;
