@@ -40,6 +40,10 @@
 	max-width: 50%;
 	min-height: 50px;
 }
+.header > img#mines_logo.smaller_logo {
+	margin-top: 25px;
+	min-height: 25px;
+}
 
 .header h1, .header h2 {
 	margin-bottom: 0px;

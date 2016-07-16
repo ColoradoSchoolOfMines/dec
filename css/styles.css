@@ -9,6 +9,7 @@ body {
 	display: block;
 	border: 3px outset #DC3FEF;
 	padding: 20px;
+	margin-top: 10px;
 }
 
 img#front-page {

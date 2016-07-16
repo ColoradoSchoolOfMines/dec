@@ -1,8 +1,5 @@
 /* smaller buttons for internal pages */
 .class-buttons#internal {
-	max-width: 80%;
-	margin-top: 10px;
-	margin-bottom: 10px;
 	text-align: right;
 }
 
