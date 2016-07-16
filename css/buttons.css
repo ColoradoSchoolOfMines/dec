@@ -39,6 +39,9 @@
 	font-weight: bold;
 	font-size: 1.1em;
 }
+.class-buttons > button:hover {
+	cursor: pointer;
+}
 .class-buttons {
 	margin: auto;
 	display: block;

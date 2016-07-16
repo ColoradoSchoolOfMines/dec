@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="css/navbar.css">
 <link rel="stylesheet" type="text/css" href="css/headers.css">
 <link rel="stylesheet" type="text/css" href="css/sponsors.css">
+<script src="js/tech.js"></script>
 <title>STEM Outreach at Mines</title>
 </head>
 <body>
@@ -17,7 +18,7 @@
 	<h1 id="dectech"><span id="dec">DEC</span>Tech</h1>
 	<h2>Discover &middot; Explore &middot; Create</h2>
 	<h2>Technology</h2>
-	<a href="http://tech.mines.edu/"></a>
+	<a href="http://tech.mines.edu/dec"></a>
 </div>
 <div class="nav-bar">
 	<ul>
@@ -27,11 +28,16 @@
 	</ul>
 </div>
 <div class="class-buttons" id="homepage">
-	<button id="discover">Discover</button>
-	<button id="explore">Explore</button>
-	<button id="create">Create</button>
-	<button id="summer">Summer Camp</button>
-	<button id="school">School Programs</button>
+	<button onClick="moveTo('discover/index')"
+		id="discover">Discover</button>
+	<button onClick="moveTo('explore/index')"
+		id="explore">Explore</button>
+	<button onClick="moveTo('create/index')"
+		id="create">Create</button>
+	<button onClick="moveTo('summer/index')"
+		id="summer">Summer Camp</button>
+	<button onClick="moveTo('afterschool/index')"
+		id="school">School Programs</button>
 </div>
 <img id="front-page" src="images/DTBinary.png">
 <div class="good-bad-news">
