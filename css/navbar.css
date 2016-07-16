@@ -1,5 +1,8 @@
 .nav-bar {
-	max-width: 90%;
+	text-transform: uppercase;
+	font-family: "sans serif";
+	font-weight: bold;
+	text-align: center;
 	margin: auto;
 	display: block;
 	margin-bottom: 5px;
@@ -10,7 +13,7 @@
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333;
+	background-color: #265C9A;
 }
 
 .nav-bar li {
@@ -27,6 +30,6 @@
 
 /* Change the link color to #111 (black) on hover */
 .nav-bar li a:hover {
-	background-color: #111;
+	background-color: #21314D;
 }
 
