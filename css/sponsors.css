@@ -1,0 +1,18 @@
+.sponsors {
+	text-align: center;
+}
+
+div#sponsor2 img {
+	position: relative;
+	width: 30%;
+	max-height: 125px;
+	padding: 10px;
+}
+
+div#sponsor3 img {
+	position: relative;
+	width: 25%;
+	max-height: 100px;
+	padding: 10px;
+
+}

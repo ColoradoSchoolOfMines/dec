@@ -1,0 +1,54 @@
+.class-buttons {
+	margin: auto;
+	display: block;
+	max-width: 80%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.class-buttons > button {
+	text-align: center;
+	font-family: "sans serif";
+	color: white;
+	font-weight: bold;
+	font-size: 1em;
+	width: 100px;
+	height: 100px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	margin: 10px 30px;
+}
+
+.class-buttons > button#discover {
+	background-color: #00B0F0;
+}
+.class-buttons > button#discover:hover {
+	background-color: #004B67;
+}
+.class-buttons > button#explore {
+	background-color: #91D050;
+}
+.class-buttons > button#explore:hover {
+	background-color: #385818;
+}
+.class-buttons > button#create {
+	background-color: #FFC000;
+}
+.class-buttons > button#create:hover {
+	background-color: #ffdd76;
+}
+.class-buttons > button#summer {
+	background-color: #D664D3;
+}
+.class-buttons > button#summer:hover {
+	background-color: #4e154c;
+}
+.class-buttons > button#school {
+	background-color: #9B57D3;
+}
+.class-buttons > button#school:hover {
+	background-color: #361551;
+}
+
