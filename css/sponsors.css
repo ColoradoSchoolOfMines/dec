@@ -1,18 +1,24 @@
-.sponsors {
+.sponsors > h3 {
+	text-align: center;
+	font-size: 1.5em;
+}
+.sponsors > div#images {
+	margin: auto;
+	display: block;
 	text-align: center;
 }
-
-div#sponsor2 img {
-	position: relative;
-	width: 30%;
-	max-height: 125px;
+.sponsors > div#images > a > img {
+	width: 14%;
 	padding: 10px;
+	margin: 10px;
+	vertical-align: middle;
 }
-
-div#sponsor3 img {
-	position: relative;
-	width: 25%;
-	max-height: 100px;
-	padding: 10px;
-
+.sponsors > div#images > a > img#oracle {
+	width: 16%;
+}
+.sponsors > div#images > a > img#google {}
+.sponsors > div#images > a > img#sparkfun {}
+.sponsors > div#images > a > img#golden {}
+.sponsors > div#images > a > img#lgs {
+	width: 12%;
 }
