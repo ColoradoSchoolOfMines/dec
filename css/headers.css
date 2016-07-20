@@ -2,19 +2,6 @@
 	position: relative;
 }
 
-.header > a {
-	 width: 100%;
-	 height: 100%;
-	 position: absolute;
-	 top: 0;
-	 left: 0;
-	 text-indent: -99999px;
-	 overflow: hidden;
-	 /*
-	  * css for making a container a link taken from SO user Sinan Erdem
-	  * http://stackoverflow.com/questions/8160494/how-to-make-a-whole-div-clickable-in-html-and-css-without-javascript 
-	  */
-}
 .header > h1#dectech {
 	font-family: "Britannica";
 	font-weight: bold;
@@ -28,19 +15,23 @@
 	color: #91278E;
 }
 
-.header > img#purple_girl {
-	max-width: 10%;
+.header img#dec_logo {
+	max-width: 40%;
 	min-height: 100px;
-	float: left;
 	margin-right: 2%;
 }
 
-.header > img#mines_logo {
+.header img#mines_logo {
 	float: right;	
-	max-width: 50%;
+	max-width: 35%;
 	min-height: 50px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 10px;
+	display: block;
 }
-.header > img#mines_logo.smaller_logo {
+.header img#mines_logo.smaller_logo {
 	margin-top: 25px;
 	min-height: 25px;
 }
@@ -48,8 +39,4 @@
 .header h1, .header h2 {
 	margin-bottom: 0px;
 	margin-top: 0px;
-}
-
-.header {
-	margin-bottom: 50px;
 }

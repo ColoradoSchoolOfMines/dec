@@ -1,6 +1,7 @@
 /* smaller buttons for internal pages */
 .class-buttons#internal {
-	text-align: right;
+	position: absolute;
+	right: 0;
 }
 
 .class-buttons#internal > button {

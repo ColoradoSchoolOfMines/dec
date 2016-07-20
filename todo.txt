@@ -7,8 +7,13 @@ Photo slideshow -- I will include images in a subsequent email.
 Below slideshow is Sponsor area and copyright etc.
 
 I will send you a gif or jpg of the logo with the text included.
+LogoWordsPNG.png
+----------------------------------------------------------------------
 
-Let's fix the width of the content area (so it doesn't change with the window sizing).
+2. Maybe make the circle links on the home page a little closer together (will help with the steelym width). 
+3. Please try the font in the nav bar (not circles) sans serif, along with the body font (good and bad text, etc.)
+4. Regarding a home button, up to you as far as including it in the nav bar or not. The logo goes home, and the top right circle, but user might also look for it in the bar -- up to you.
+5. I like the white background - it makes the colors pop, but with the fixed width and examples above, play with background colors/textures if you want (something like the words behind the girl in the logo, in a very light blue, might be interesting...? I could send a gif of that too just to play with)
 
 ----------------------------------------------------------------------
 
