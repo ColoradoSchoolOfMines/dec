@@ -3,6 +3,14 @@ body {
 	padding: 10px;
 }
 
+.wrapper {
+	width: 1280px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -322px;
+}
+
 .content {
 	max-width: 80%;
 	margin: auto;
