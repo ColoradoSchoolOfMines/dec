@@ -15,7 +15,6 @@
 
 /* larger buttons for homepage */
 .class-buttons#homepage {
-	max-width: 80%;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
@@ -26,7 +25,7 @@
 	-webkit-border-radius: 75px;
 	-moz-border-radius: 75px;
 	border-radius: 75px;
-	margin: 10px 20px;
+	margin: 10px 10px;
 }
 
 /* Default styles regardless of size of buttons */
