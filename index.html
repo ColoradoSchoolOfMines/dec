@@ -4,42 +4,17 @@
 <meta charset="UTF-8">
 <!--Remember to use absolute urls for CSS and not relative for security issues-->
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-<link rel="stylesheet" type="text/css" href="css/buttons.css">
-<link rel="stylesheet" type="text/css" href="css/navbar.css">
-<link rel="stylesheet" type="text/css" href="css/headers.css">
-<link rel="stylesheet" type="text/css" href="css/sponsors.css">
 <script src="js/tech.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+loadHeader('.');
+loadSponsors('.');
+</script>
 <title>STEM Outreach at Mines</title>
 </head>
 <body>
 <div class="wrapper">
-<div class="header">
-	<a href="http://tech.mines.edu/dec">
-		<img id="dec_logo" src="images/logos/DEClogo.png">
-	</a>
-	<a href="http://tech.mines.edu/dec">
-		<img id="mines_logo" src="images/logos/mines.png">
-	</a>
-</div>
-<div class="nav-bar">
-	<ul>
-		<li><a>Welcome</a></li>
-		<li><a>About</a></li>
-		<li><a>Contact</a></li>
-	</ul>
-</div>
-<div class="class-buttons" id="homepage">
-	<button onClick="moveTo('discover/index')"
-		id="discover">Discover</button>
-	<button onClick="moveTo('explore/index')"
-		id="explore">Explore</button>
-	<button onClick="moveTo('create/index')"
-		id="create">Create</button>
-	<button onClick="moveTo('summer/index')"
-		id="summer">Summer Camp</button>
-	<button onClick="moveTo('afterschool/index')"
-		id="school">School Programs</button>
-</div>
+<div id="header"></div>
 <img id="front-page" src="images/DTBinary.png">
 <div class="good-bad-news">
 	<h3>Good News:</h3> 
@@ -52,26 +27,7 @@
 	<h3>Goal: Get more girls interested in STEM!</h3>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/U5tTzUy5K4o" frameborder="0" allowfullscreen></iframe>
 </div>
-<div class="sponsors">
-  	<h3>Sponsors</h3>
-	<div id="images">
-	<a href="https://academy.oracle.com/en/oa-web-overview.html">
-		<img src="images/logos/oracle.jpeg" id="oracle">
-	</a>
-	<a href="https://www.google.com" target="blank">
-		<img src="images/logos/google.png" id="google">
-	</a>
-	<a href="https://www.sparkfun.com/static/about" target="blank">
-		<img src="images/logos/Sparkfun.png" id="sparkfun">
-	</a>
-	<a href="http://www.cityofgolden.net/" target="blank">
-		<img src="images/logos/CityofGolden_logo_captioned.jpeg" id="golden">
-	</a>
-	<a href="http://www.lgsinnovations.com/" target="blank">
-		<img src="images/logos/lgs.jpeg" id="lgs">
-	</a>
-	</div>
-</div>
+<div id="sponsors"></div>
 </div><!-- End of .wrapper class -->
 </body>
 </html> 
