@@ -2,6 +2,7 @@
 .class-buttons#internal {
 	position: absolute;
 	right: 0;
+	font-size: 0.4em;
 }
 
 .class-buttons#internal > button {
