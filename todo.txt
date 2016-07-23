@@ -1,13 +1,3 @@
-Thanks for the examples, that helped clarify what I needed to do!
-I made our site a little bit wider than the steelym site to accommodate
-the current circle link size (even with them a little closer together).
-
---> So I have a macbook and not all of the top header (logos) width is visible unless I maximize the window to the full width of my screen.
-In looking at a few other websites, I think the width you have for the photo is a good width size - what do you think?
-What do you think of centering the container/wrapper/content area =) instead of fixing it left? And, making the logos on top about 2/3 of their current size?
-
-> Please try the font in the nav bar (not circles) sans serif, along with the body font (good and bad text, etc.)
-
 Not sure exactly what you meant here- the nav bar and circles both had
 the same plain "sans serif" font. I changed the body to also use plain
 "sans serif."
@@ -51,6 +41,7 @@ Below slideshow is Sponsor area and copyright etc.
 
 BEFORE LAUNCH:
 
+Nav bar same color as program on child directories
 Real Links
 Absolute hrefs for <link css> tags
 

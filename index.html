@@ -4,8 +4,12 @@
 <meta charset="UTF-8">
 <!--Remember to use absolute urls for CSS and not relative for security issues-->
 <link rel="stylesheet" type="text/css" href="css/styles.css">
+<link rel="stylesheet" type="text/css" href="css/slides.css">
 <script src="js/tech.js"></script>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+ <!-- Slick is a js plugin for containers, used for the slideshow -->
+ <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+ <script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <script>
 loadHeader('.');
 loadSponsors('.');
@@ -15,19 +19,50 @@ loadSponsors('.');
 <body>
 <div class="wrapper">
 <div id="header"></div>
-<img id="front-page" src="images/DTBinary.png">
+<!-- SLIDESHOW -->
+
+<div class="slideshow">
+	<div><img src="images/slideshow/0.png"></div>
+	<div><img src="images/slideshow/1.png"></div>
+	<div><img src="images/slideshow/2.png"></div>
+	<div><img src="images/slideshow/3.png"></div>
+	<div><img src="images/slideshow/4.png"></div>
+	<div><img src="images/slideshow/5.png"></div>
+</div>
+
+<!--
+Slideshow makes use of slick, docs here:
+https://github.com/kenwheeler/slick/
+-->
+<script type="text/javascript">
+$(document).ready(function(){
+		$('.slideshow').slick({
+					speed: 500,
+					slidesPerRow: 1,
+					slidesToShow: 3,
+					useCSS: true,
+					arrows: false,
+					centerMode: true, 
+					accessibility: true
+				});
+		$('.slideshow').slick('slickPlay');
+});
+</script>
+
+<!-- /SLIDESHOW -->
 <div class="good-bad-news">
-	<h3>Good News:</h3> 
+	<h3>Good News</h3> 
 	<p>Studies of informal learning environments suggest that structured,
 	non-school science programs can increase children's interest in science and ultimately
 	impact the choices these children make in continuing their STEM (Science, Technology, Engineering, and Mathematics)
 	education and career choice.</p>
-	<h3>Bad News:</h3> 
+	<h3>Bad News</h3> 
 	<p>Data shows females have less of an interest in most STEM fields than their male peers.</p>
 	<h3>Goal: Get more girls interested in STEM!</h3>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/U5tTzUy5K4o" frameborder="0" allowfullscreen></iframe>
 </div>
 <div id="sponsors"></div>
 </div><!-- End of .wrapper class -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 </body>
 </html> 
