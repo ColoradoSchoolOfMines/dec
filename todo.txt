@@ -1,34 +1,10 @@
-Not sure exactly what you meant here- the nav bar and circles both had
-the same plain "sans serif" font. I changed the body to also use plain
-"sans serif."
-
---> For some reason, all of the font is "serif" on both my Mac and PC...? 
-
-> Regarding a home button, up to you as far as including it in the nav bar or not. The logo goes home, and the top right circle
-I went ahead and added those links for each program. Let me know if you
-have other ideas/want to remove.
-
---> This sounds good. If you'd rather create a header in the content area, that would be fine, too!
-
-I tried a few different arrangements of the words image you sent,
-various textures, etc... but I didn't find anything I liked very much.
-Plain white looks much better (to me) as the background for any
-text/images on the page, and textures/images look better for all the
-empty space - but the two don't go well together in my opinion.
-
---> Did you happen to try a white background for the container area (logos down through sponsors), and then the words showing up on the right and left of this rectangle? Sounds like you did, but just curious.
-
 wondering if it's better for you if I send text for all pages,
 	or if you transfer over what is there already, and I send you updates?
 
-Is there anything else I am missing?
-
---> Wondering about the links in the top right of the internal pages - I was thinking text similar to the home page in each of them (Discover, Explore, Create, etc.) - what do you think, and should I create images for you? Or do you want to handle this?
-
-resolution is too high and they may need to be cropped to be the same size --
-	let me know if you need anything from me on this.
-
-Also, if there are any photos you don't think we should include, let me know.
+--> Wondering about the links in the top right of the internal pages - I was
+	thinking text similar to the home page in each of them (Discover, Explore,
+	Create, etc.) - what do you think, and should I create images for you? Or do
+	you want to handle this?
 
 ----------------------------------------------------------------------
 WAITING FOR LISA:
