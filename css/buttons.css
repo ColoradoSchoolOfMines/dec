@@ -57,16 +57,16 @@
 	background-color: #004B67;
 }
 .class-buttons > button#explore {
-	background-color: #91D050;
+	background-color: #9B57D3;
 }
 .class-buttons > button#explore:hover {
-	background-color: #385818;
+	background-color: #361551;
 }
 .class-buttons > button#create {
-	background-color: #FF8000;
+	background-color: #91D050;
 }
 .class-buttons > button#create:hover {
-	background-color: #ff4f14;
+	background-color: #385818;
 }
 .class-buttons > button#summer {
 	background-color: #D664D3;
@@ -75,9 +75,9 @@
 	background-color: #4e154c;
 }
 .class-buttons > button#school {
-	background-color: #9B57D3;
+	background-color: #FF8000;
 }
 .class-buttons > button#school:hover {
-	background-color: #361551;
+	background-color: #ff4f14;
 }
 

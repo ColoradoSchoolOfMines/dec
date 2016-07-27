@@ -1,15 +1,8 @@
-wondering if it's better for you if I send text for all pages,
-	or if you transfer over what is there already, and I send you updates?
 
---> Wondering about the links in the top right of the internal pages - I was
-	thinking text similar to the home page in each of them (Discover, Explore,
-	Create, etc.) - what do you think, and should I create images for you? Or do
-	you want to handle this?
+Wondering about the text on the links in the top right of the internal pages
 
 ----------------------------------------------------------------------
 WAITING FOR LISA:
-
-Photo slideshow -- I will include images in a subsequent email.
 
 Below slideshow is Sponsor area and copyright etc.
 
@@ -17,7 +10,7 @@ Below slideshow is Sponsor area and copyright etc.
 
 BEFORE LAUNCH:
 
-Nav bar same color as program on child directories
+Nav bar same color as program on child directories?
 Real Links
 Absolute hrefs for <link css> tags
 
