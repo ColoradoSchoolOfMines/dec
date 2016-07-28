@@ -1,0 +1,23 @@
+#footer {
+	margin-top: 10px;
+	background-color: #265C9A;
+	min-height: 50px;
+	text-align: center;
+	padding: 15px;
+	color: white;
+	font-weight: bold;
+	font-family: Sans-Serif;
+}
+
+#footer a {
+	color: white;
+	text-decoration: none;
+}
+
+#footer p {
+	margin: 0px;
+}
+
+#footer div#bottom {
+	margin-top: 20px;
+}

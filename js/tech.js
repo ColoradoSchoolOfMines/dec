@@ -26,3 +26,12 @@ function loadSponsors(dir) {
 		$('#sponsors').load('sponsors.html');
 	});
 }
+
+function loadFooter(dir) {
+	$(document).ready(function(){
+		pre = dir + '/css/';
+		stylesheet(pre + 'footer');
+		c = dir + "/footer.html";
+		$('#footer').load(c);
+	});
+}
