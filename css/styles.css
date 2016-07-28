@@ -34,9 +34,8 @@ img#front-page {
 
 .good-bad-news {
 	text-align: center;
-	max-width: 80%;
 	margin: auto;
 	display: block;
-	border-bottom: 1px solid black;
+	border-bottom: 5px solid #265C9A;
 	padding-bottom: 20px;
 }
