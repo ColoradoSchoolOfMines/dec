@@ -19,6 +19,16 @@ function loadHeader(dir) {
 	});
 }
 
+function loadInternalHeader(dir) {
+	$(document).ready(function(){
+		pre = dir + '/css/';
+		stylesheet(pre + 'headers');
+		stylesheet(pre + 'navbar');
+		stylesheet(pre + 'buttons');
+		$('#header').load("internal_header.html");
+	});
+}
+
 function loadSponsors(dir) {
 	$(document).ready(function(){
 		pre = dir + '/css/';
