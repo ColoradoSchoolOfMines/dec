@@ -2,7 +2,7 @@
 .class-buttons#internal {
 	position: absolute;
 	right: 0;
-	font-size: 0.4em;
+	font-size: 0.5em;
 }
 
 .class-buttons#internal > button {
@@ -12,6 +12,8 @@
 	-moz-border-radius: 25px;
 	border-radius: 25px;
 	margin: 0px 5px;
+	font-weight: normal;
+	font-family: "Helvetica Narrow","Arial Narrow",Tahoma,Arial,Helvetica,sans-serif;
 }
 
 /* larger buttons for homepage */
@@ -72,7 +74,7 @@
 	background-color: #D664D3;
 }
 .class-buttons > button#summer:hover {
-	background-color: #401E3F;
+	background-color: #954693;
 }
 .class-buttons > button#school {
 	background-color: #FF8000;

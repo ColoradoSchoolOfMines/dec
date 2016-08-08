@@ -24,6 +24,7 @@ a:hover {
 
 .content {
 	max-width: 80%;
+	min-height: 500px;
 	margin: auto;
 	display: block;
 	border: 3px outset #DC3FEF;
@@ -52,8 +53,4 @@ img#front-page {
 
 .center {
 	text-align: center;
-}
-
-#about {
-	margin-bottom: 100px;
 }
