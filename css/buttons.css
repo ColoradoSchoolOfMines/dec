@@ -5,7 +5,7 @@
 	font-size: 0.5em;
 }
 
-.class-buttons#internal > button {
+.class-buttons#internal button {
 	width: 50px;
 	height: 50px;
 	-webkit-border-radius: 25px;
@@ -17,12 +17,12 @@
 }
 
 /* larger buttons for homepage */
-.class-buttons#homepage {
+.class-buttons#homepage, .class-buttons#register  {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
 }
-.class-buttons#homepage > button {
+.class-buttons#homepage button, .class-buttons#register button {
 	width: 150px;
 	height: 150px;
 	-webkit-border-radius: 75px;
@@ -32,7 +32,7 @@
 }
 
 /* Default styles regardless of size of buttons */
-.class-buttons > button {
+.class-buttons button {
 	vertical-align: middle;
 	text-align: center;
 	text-transform: uppercase;
@@ -42,7 +42,7 @@
 	font-weight: bold;
 	font-size: 1.1em;
 }
-.class-buttons > button:hover {
+.class-buttons button:hover {
 	cursor: pointer;
 }
 .class-buttons {
@@ -50,6 +50,10 @@
 	display: block;
 }
 
+.class-buttons#register button {
+	background-color: green;
+	font-size: 1em;
+}
 
 /* Colors */
 .class-buttons > button#discover {
