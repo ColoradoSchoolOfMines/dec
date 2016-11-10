@@ -54,3 +54,10 @@ img#front-page {
 .center {
 	text-align: center;
 }
+
+.main {
+  font-size: 1.3em;
+  max-width: 80%;
+  margin: auto;
+  display: block;
+}
