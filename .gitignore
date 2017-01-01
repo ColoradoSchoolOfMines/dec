@@ -1,3 +1,5 @@
 DECweb.pdf
 *.swp
 deploy_all
+*/.DS_Store
+.DS_Store
