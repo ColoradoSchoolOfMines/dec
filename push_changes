@@ -1,6 +1,0 @@
-#!/bin/bash
-
-server='mastergo:/var/www/tech/dec/'
-files=`git log -$1 | grep "commit" | tail -1 | cut -d " " -f 2 | xargs git diff-tree --no-commit-id --name-only -r`
-tar cjf package.tar.bz2 
-scp $files $server
