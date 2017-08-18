@@ -8,7 +8,7 @@ a {
 	color: #17375D;
 }
 a:visited {
-	color: #265C9A;
+	color: #1abc9c;
 }
 a:hover {
 	color: #1C4471;
@@ -47,7 +47,7 @@ img#front-page {
 	text-align: center;
 	margin: auto;
 	display: block;
-	border-bottom: 5px solid #265C9A;
+	border-bottom: 5px solid #1abc9c;
 	padding-bottom: 20px;
 }
 
