@@ -5,13 +5,13 @@ body {
 }
 
 a {
-	color: #17375D;
+	color: #8e44ad;
 }
 a:visited {
-	color: #1abc9c;
+	color: #9b59b6;
 }
 a:hover {
-	color: #1C4471;
+	color: #632f79;
 }
 
 .wrapper {
@@ -27,7 +27,7 @@ a:hover {
 	min-height: 500px;
 	margin: auto;
 	display: block;
-	border: 3px outset #DC3FEF;
+	border: 3px outset #894B9D;
 	padding: 20px;
 	margin-top: 10px;
 }
