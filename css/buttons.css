@@ -60,30 +60,30 @@
 	background-color: #3498db;
 }
 .class-buttons > button#discover:hover {
-	background-color: #004B67;
+	background-color: #246a99;
 }
 .class-buttons > button#explore {
 	background-color: #f1c40f;
 }
 .class-buttons > button#explore:hover {
-	background-color: #6c3c93;
+	background-color: #a8890a;
 }
 .class-buttons > button#create {
 	background-color: #2ecc71;
 }
 .class-buttons > button#create:hover {
-	background-color: #385818;
+	background-color: #208e4f;
 }
 .class-buttons > button#summer {
 	background-color: #e74c3c;
 }
 .class-buttons > button#summer:hover {
-	background-color: #954693;
+	background-color: #a1352a;
 }
 .class-buttons > button#school {
 	background-color: #e67e22;
 }
 .class-buttons > button#school:hover {
-	background-color: #ff4f14;
+	background-color: #a15817;
 }
 
