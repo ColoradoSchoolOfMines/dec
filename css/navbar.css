@@ -13,7 +13,7 @@
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #1abc9c;
+	background-color: #8e44ad;
 }
 
 .nav-bar li {
@@ -28,8 +28,7 @@
 	text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 .nav-bar li a:hover {
-	background-color: #21314D;
+	background-color: #632f79;
 }
 
