@@ -51,8 +51,12 @@
 }
 
 .class-buttons#register button {
-	background-color: green;
+	background-color: #1abc9c;
 	font-size: 1em;
+}
+
+.class-buttons#register button:hover {
+	background-color: #12836d;
 }
 
 /* Colors */
