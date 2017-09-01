@@ -61,3 +61,17 @@ img#front-page {
   margin: auto;
   display: block;
 }
+
+img.instructor-photo {
+	float: left;
+	margin-right: 10px;
+	max-width: 133px;
+	max-height: 200px;
+}
+
+.bios p {
+	display: block;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
