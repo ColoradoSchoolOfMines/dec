@@ -1,7 +1,8 @@
 /* smaller buttons for internal pages */
 .class-buttons#internal {
 	position: absolute;
-	right: 0;
+	right: 12%;
+    top: 25%;
 	font-size: 0.5em;
 }
 
