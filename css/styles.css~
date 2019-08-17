@@ -75,7 +75,3 @@ img.instructor-photo {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-#h3toh1 {
-	color: black;
-	font-size:30px;
-}

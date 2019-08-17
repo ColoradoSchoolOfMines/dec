@@ -1,5 +1,5 @@
  <!DOCTYPE html>
-<html lang="en-US">
+<html>
 <head>
 <meta charset="UTF-8">
 <!--Remember to use absolute urls for CSS and not relative for security issues-->
@@ -21,7 +21,7 @@ loadFooter('..');
 
 	<p align = "left">Our students provide after school programs at local area schools. If you would like to talk with us about administering a program at your school, please email us at <a href="mailto:stem-tech@mines.edu">stem-tech@mines.edu</a>.</p>
 	<p align = "left">Our Mines students also attend local science fairs and STEM events when requested by schools and organizations. If you are interested in our program providing a display/activity/experiment at your next event, please contact us at the email above.</p>
-	<img src="../images/highfive.png" style="max-width:75%; margin-top: 10px; border-radius: 10px; class = center" alt="A DECtech student and an instructor celebrate their hard work with a high five">
+	<img src="../images/highfive.png" style="max-width:75%; margin-top: 10px; border-radius: 10px; class = center">
 </div>
 <div id="footer"></div>
 </div><!-- End of .wrapper class -->

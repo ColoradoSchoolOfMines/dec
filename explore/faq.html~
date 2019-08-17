@@ -1,5 +1,5 @@
  <!DOCTYPE html>
-<html lang="en-US">
+<html>
 <head>
 <meta charset="UTF-8">
 <!--Remember to use absolute urls for CSS and not relative for security issues-->
@@ -10,7 +10,7 @@
 loadHeader('..');
 loadFooter('..');
 </script>
-<title>DISCOVER TECH</title>
+<title>STEM Outreach at Mines</title>
 </head>
 <body>
 <div class="wrapper">
@@ -27,24 +27,11 @@ loadFooter('..');
 
 <hr>
 <p><strong>Q: What is the course content?</strong>
-<br><br>A: <strong>Course content changes with each semester.</strong> Every three years or so (with a brand new set of participants), we repeat activities that the girls really enjoyed, and replace the ones that were just "ok." This means that if your daughter attends the program for 4 years (3rd - 6th grade), she will not repeat activities her full 4-year attendance. Following is a list of typical topics and activities included in our program.
-<div style="text-align: left;">
-<p>Grades 3/4:
-<ul>
-<li>civil engineering (girls work for Three Little Pigs Construction Company) and try to build a house that can't be blown down</li>
-<li>computer science (girls learn about a piece of paper that is more intelligent than everyone in the room)</li>
-<li>mechanical engineering (demos and time to engage with robotics and electronics)</li>
-<li>chemistry (chemistry magic show performed by Mines Chemistry professor)</li>
-</ul></p>
-
-<p>Grades 5/6:
-<ul>
-<li>engineering design (where girls create a design of a device, and then implement someone else's design)</li>
-<li>biomedical engineering (where girls build a prosthetic leg)</li>
-<li>physics (where girls learn about astronomy and space)</li>
-<li>geology (where girls learn about rocks and processes)</li>
-</ul></p>
-</div>
+<br><br>A: <strong>Course content changes with each semester.</strong>
+Topics for Fall 2017 are:
+<h4 style="margin-bottom: 0px;">Computer Science: Game Maker Arcade - Coding in Microsoft Touch Develop</h4>
+<h4 style="margin-bottom: 0px;">Math: Math in Unexpected Places</h4>
+</p>
 
 <hr>
 <p><strong>Q: How do I pay for the program?</strong>
@@ -63,20 +50,21 @@ loadFooter('..');
 </ul>
 <br>If we have scholarship funds available, we are happy to grant aid, and will respond via email accordingly.</p>
 
+
 <hr>
 <p><strong>Q: How do I drop off/pick up my daughter?</strong>
 <br><br>A: 
 <strong>New in Fall 2017:</strong> drop-off and pick-up will be on the North end of the CT parking lot. This lot is located on the North side of 18th, between Cheyenne and Arapahoe Streets. Parents/guardians may pull through at the curb (do not park at the curb) on the North end of the lot and drop children off, or park in the CT lot, briefly, and walk to the drop off point. Participants will be marked "present" on the attendance roster and given a name tag by Program staff.
 <br><br>
-At 4:25pm, Program staff will walk participants to the classroom, and the session will begin. After the session is over, Program staff will walk participants back to the drop-off/pick-up area and supervise participant departure between 5:45 - 6:00pm. Parents may pull through at the curb (do not park here), or park in the CT lot (parking is free after 5pm) and walk to the drop-off/pick-up point to retrieve child(ren). Participants "high five" their instructor as they leave.
+At 4:55pm, Program staff will walk participants to the classroom, and the session will begin. After the session is over, Program staff will walk participants back to the drop-off/pick-up area and supervise participant departure between 6:15 - 6:30pm. Parents may pull through at the curb (do not park here), or park in the CT lot (parking is free after 5pm) and walk to the drop-off/pick-up point to retrieve child(ren). Participants "high five" their instructor as they leave.
 
 <br><br>
 Click <a href="https://www.google.com/maps/place/Lot+CT,+Golden,+CO+80401/@39.7487515,-105.2223023,17z/data=!4m12!1m6!3m5!1s0x876b9ad454b688a3:0x6a63eac2a9fc64fc!2sColorado+School+of+Mines!8m2!3d39.7510136!4d-105.2225705!3m4!1s0x876b852ad6d8552d:0xcefb6c8ed9f4fbe1!8m2!3d39.7500271!4d-105.2189646" target="_blank">here</a> to see the CT lot on Google Maps.
 <br>Directions to Mines campus are available <a href="https://www.mines.edu/MapsDirectionsParkingInfo" target="_blank">here</a>. 
 <br>A map of the campus is <a href="https://inside.mines.edu/UserFiles/File/facilities/MinesCampusMap.pdf" target="_blank">here</a>.
 <br>CT is next to the CTLM building (#18 on the map)
-<br><br>	Drop off time: 4:10-4:25pm
-<br>	Pick up time: 5:45-6:00pm </p>
+<br><br>Drop off time: 4:40-4:55pm
+<br>Pick up time: 6:15-6:30pm </p>
 
 <hr>
 <p><strong>Q: Am I allowed to sit in on the classes?</strong>
@@ -95,8 +83,8 @@ Click <a href="https://www.google.com/maps/place/Lot+CT,+Golden,+CO+80401/@39.74
 <br><br>A: We make every effort to honor these requests.</p>
 
 <hr>
-<p><strong>Q: Who are the DISCOVER TECH teachers and how are they chosen?</strong>
-<br><br>A: All DISCOVER TECH teachers are current Mines female students who love engaging the next generation in science and engineering projects. They are chosen through an application/interview process, and then hired after a background check is done. </p>
+<p><strong>Q: Who are the EXPLORING TECH teachers and how are they chosen?</strong>
+<br><br>A: All EXPLORING TECH teachers are current Mines female students who love engaging the next generation in science and engineering projects. They are chosen through an application/interview process, and then hired after a background check is done. </p>
 
 <hr>
 <p><strong>Q: What is the teacher/child ratio?</strong>
