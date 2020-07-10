@@ -81,7 +81,7 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
-.flag .image*{
+.flag .image_1, .image_2, .image_3, .image_4{
     opacity: 1;
     transition: .5s ease;
     backface-visibility: hidden;
