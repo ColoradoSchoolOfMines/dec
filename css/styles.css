@@ -94,7 +94,7 @@ img.instructor-photo {
     margin: 20px;
 }
 
-.middle {
+.middle_1, .middle_2, .middle_3, .middle_4 {
     transition: .5s ease;
     opacity: 0;
     position: absolute;
@@ -104,11 +104,11 @@ img.instructor-photo {
     text-align: center;
 }
 
-.flag: hover .image{
+.flag: hover .image_1, .image_2, .image_3, .image_4{
     opacity: 0.3;
 }
 
-.flag:hover .middle {
+.flag:hover .middle_1, .middle_2, .middle_3, .middle_4 {
     opacity: 1;
 }
 
