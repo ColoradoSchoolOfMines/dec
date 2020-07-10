@@ -79,3 +79,18 @@ img.instructor-photo {
 	color: black;
 	font-size:30px;
 }
+
+/*--In Action page picture grid */
+.flag .image{
+    width: 50%;
+    float: left;
+}
+
+.flag img{
+    width: auto;
+    margin: 20px;
+}
+
+
+
+
