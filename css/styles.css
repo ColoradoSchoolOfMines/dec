@@ -81,6 +81,12 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
+
+img #habbitat {
+    left: auto;
+    right: auto;
+}
+
 .flag {
     display: flex;
     flex-wrap: wrap;
