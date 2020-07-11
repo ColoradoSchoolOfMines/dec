@@ -81,6 +81,20 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
+.flag {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flag .image{
+    width: 50%;
+}
+
+.flag img {
+    width: calc(100% - (20px * 2));
+    margin: 20px;
+}
+
 .image_1, .image_2, .image_3, .image_4{
     opacity: 1;
     display: inline-block;
@@ -88,12 +102,6 @@ img.instructor-photo {
     backface-visibility: hidden;
     width: 50%;
     float: left;
-}
-
-.flag img{
-    height: auto;
-    width: calc(100% - (10px *2));
-    margin: 10px;
 }
 
 .middle_1, .middle_2, .middle_3, .middle_4 {
