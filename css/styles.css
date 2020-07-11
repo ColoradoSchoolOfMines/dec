@@ -105,11 +105,11 @@ img.instructor-photo {
     text-align: center;
 }
 
-.flag:hover .image_1, .image_2, .image_3, .image_4{
+.image_1:hover, .image_2:hover, .image_3:hover, .image_4:hover{
     opacity: 0.3;
 }
 
-.flag:hover .middle_1, .middle_2, .middle_3, .middle_4 {
+.image_1:hover, .image_2:hover, .image_3:hover, .image_4:hover. .middle_1, .middle_2, .middle_3, .middle_4 {
     opacity: 1;
 }
 
