@@ -91,10 +91,11 @@ img.instructor-photo {
 }
 
 .flag img{
-    width: calc(100% - (20px *2));
+    width: calc(100% - (10px *2));
     margin: 20px;
 }
 
+/*
 .middle_1, .middle_2, .middle_3, .middle_4 {
     transition: .5s ease;
     opacity: 0;
@@ -104,6 +105,7 @@ img.instructor-photo {
     transform: translate(-50%, -50%);
     text-align: center;
 }
+*/
 
 .image_1:hover, .image_2:hover, .image_3:hover, .image_4:hover{
     opacity: 0.3;
@@ -123,7 +125,7 @@ img.instructor-photo {
     padding: 16px 32px;
 }
 
-.imgage_1:hover .middle_1, .text {
+.imgage_1:hover .middle_1 .text {
     visibility: visible;
     opacity: 1;
 }
