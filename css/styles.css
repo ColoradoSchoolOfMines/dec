@@ -95,7 +95,6 @@ img.instructor-photo {
     margin: 20px;
 }
 
-/*
 .middle_1, .middle_2, .middle_3, .middle_4 {
     transition: .5s ease;
     opacity: 0;
@@ -105,7 +104,6 @@ img.instructor-photo {
     transform: translate(-50%, -50%);
     text-align: center;
 }
-*/
 
 .image_1:hover, .image_2:hover, .image_3:hover, .image_4:hover{
     opacity: 0.3;
@@ -119,13 +117,12 @@ img.instructor-photo {
     background-color: #4CAF50;
     color: white;
     position: absolute;
-    visibility: hidden;
-    opacity: 0;
+    opacity: 1;
     font-size: 16px;
     padding: 16px 32px;
 }
 
-.imgage_1:hover .middle_1 .text {
+.imgage_1:hover .middle_1{
     visibility: visible;
     opacity: 1;
 }
