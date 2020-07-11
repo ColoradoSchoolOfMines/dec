@@ -97,6 +97,11 @@ img.instructor-photo {
 
 .middle_1, .middle_2, .middle_3, .middle_4 {
     transition: .5s ease;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     opacity: 0;
     top: 50%;
     left: 50%;
