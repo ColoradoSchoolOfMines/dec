@@ -116,10 +116,17 @@ img.instructor-photo {
 .text  {
     background-color: #4CAF50;
     color: white;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
     font-size: 16px;
     padding: 16px 32px;
 }
 
+.imgage_1:hover .middle_1, .text {
+    visibility: visible;
+    opacity: 1;
+}
 
 
 
