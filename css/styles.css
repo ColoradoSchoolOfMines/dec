@@ -81,8 +81,9 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
-.flag .image_1, .image_2, .image_3, .image_4{
+.image_1, .image_2, .image_3, .image_4{
     opacity: 1;
+    display: inline-block;
     transition: .5s ease;
     backface-visibility: hidden;
     width: 50%;
@@ -104,7 +105,7 @@ img.instructor-photo {
     text-align: center;
 }
 
-.flag: hover .image_1, .image_2, .image_3, .image_4{
+.flag:hover .image_1, .image_2, .image_3, .image_4{
     opacity: 0.3;
 }
 
@@ -112,7 +113,7 @@ img.instructor-photo {
     opacity: 1;
 }
 
-.text {
+.text  {
     background-color: #4CAF50;
     color: white;
     font-size: 16px;
