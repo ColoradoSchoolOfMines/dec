@@ -98,7 +98,6 @@ img.instructor-photo {
 .middle_1, .middle_2, .middle_3, .middle_4 {
     transition: .5s ease;
     opacity: 0;
-    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -117,7 +116,7 @@ img.instructor-photo {
     background-color: #4CAF50;
     color: white;
     position: absolute;
-    opacity: 1;
+    opacity: 0;
     font-size: 16px;
     padding: 16px 32px;
 }
