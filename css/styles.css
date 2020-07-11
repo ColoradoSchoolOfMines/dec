@@ -83,8 +83,10 @@ img.instructor-photo {
 /*--In Action page picture grid */
 
 img #habbitat {
-    left: auto;
-    right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 
 .flag {
