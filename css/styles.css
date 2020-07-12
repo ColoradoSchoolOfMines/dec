@@ -82,6 +82,11 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
+.image_main_container img {
+    height: 200px;
+    width: 200px;
+    object-fit: scale-down;
+}
 
 .image_main_container ul, .image_main_container ol {
     list-style: none;
@@ -121,7 +126,7 @@ img.instructor-photo {
     display:none;
 }
 
-.image_container:hover img{
+.image_container:hover img {
     filter: brightness(0.3);
     -webkit-filter:brightness(0.3);
     -ms-filter:brightness(0.3);
@@ -137,71 +142,3 @@ img.instructor-photo {
         width: 50%;
     }
 }
-
-/*
-img #habbitat {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
-}
-
-.flag {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.flag .image{
-    width: 50%;
-    height: 200px;
-}
-
-.flag img {
-    width: calc(100% - (20px * 2));
-    margin: 20px;
-}
-
-.image_1, .image_2, .image_3, .image_4{
-    opacity: 1;
-    display: inline-block;
-    transition: .5s ease;
-    backface-visibility: hidden;
-    width: 50%;
-    float: left;
-}
-
-.middle_1, .middle_2, .middle_3, .middle_4 {
-    transition: .5s ease;
-    opacity: 0;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-}
-
-.image_1:hover, .image_2:hover, .image_3:hover, .image_4:hover{
-    opacity: 0.3;
-}
-
-.image_1:hover, .image_2:hover, .image_3:hover, .image_4:hover. .middle_1, .middle_2, .middle_3, .middle_4 {
-    opacity: 1;
-}
-
-.text  {
-    background-color: #4CAF50;
-    color: white;
-    position: absolute;
-    opacity: 0;
-    font-size: 16px;
-    padding: 16px 32px;
-}
-
-.imgage_1:hover .middle_1{
-    visibility: visible;
-    opacity: 1;
-}
-
-
-
-
-*/
