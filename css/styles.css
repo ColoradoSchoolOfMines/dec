@@ -145,6 +145,10 @@ img.instructor-photo {
 @media only screen and (max-width : 1000px) {
     /*row of two boxes*/
     .image_container {
-        width: 25%;
+        width: 50%;
+    }
+    
+    .media h1 {
+        font-size: 20px;
     }
 }
