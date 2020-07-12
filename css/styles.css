@@ -83,8 +83,8 @@ img.instructor-photo {
 
 /*--In Action page picture grid */
 .image_main_container img {
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 50%;
     object-fit: scale-down;
 }
 
