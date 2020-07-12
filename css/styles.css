@@ -144,7 +144,7 @@ img.instructor-photo {
 }
 
 .image_container:hover h1 {
-    display: inline;
+    display: inline-block;
 }
 
 @media only screen and (max-width : 1000px) {
