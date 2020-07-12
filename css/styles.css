@@ -75,6 +75,7 @@ img.instructor-photo {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
 #h3toh1 {
 	color: black;
 	font-size:30px;
@@ -82,6 +83,61 @@ img.instructor-photo {
 
 /*--In Action page picture grid */
 
+ol.in_action, ul.in_action {
+    list-style: none;
+    line-height: 0;
+}
+
+.image_main_container {
+    width: 100%;
+}
+
+.image_container {
+    float: left;
+    width: 33.33%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.team_image {
+    width: 100%;
+}
+
+.media {
+    position: relative;
+}
+
+.media h1 {
+    text-align:center;
+    position:absolute;
+    top:50%;
+    width:100%;
+    transform:translate(0%,-50%);
+    -webkit-transform:translate(0%,-50%);
+    -ms-transform:translate(0%,-50%);
+    color:#FFFFFF;
+    font-family:Arial;
+    text-transform:uppercase;
+    display:none;
+}
+
+.image_container:hover img{
+    filter: brightness(0.3);
+    -webkit-filter:brightness(0.3);
+    -ms-filter:brightness(0.3);
+}
+
+.image_container:hover h1 {
+    display: block;
+}
+
+@media only screen and (max-width : 1000px) {
+    /*row of two boxes*/
+    .image_container {
+        width: 50%;
+    }
+
+/*
 img #habbitat {
     display: block;
     margin-left: auto;
@@ -147,3 +203,4 @@ img #habbitat {
 
 
 
+*/
