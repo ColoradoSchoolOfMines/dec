@@ -122,6 +122,10 @@ img.instructor-photo {
     position: relative;
 }
 
+.media p{
+    font-size: .5em;
+}
+
 .media h1 {
     font-size: 2rem;
     text-align:center;
@@ -136,6 +140,8 @@ img.instructor-photo {
     text-transform:uppercase;
     display:none;
 }
+
+.media p
 
 .image_container:hover img {
     filter: brightness(0.3);
