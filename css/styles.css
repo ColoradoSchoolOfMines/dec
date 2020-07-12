@@ -82,11 +82,13 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
+/*
 .image_main_container img {
     height: 50%;
     width: 50%;
     object-fit: scale-down;
 }
+*/
 
 .image_main_container ul, .image_main_container ol {
     list-style: none;
@@ -99,7 +101,7 @@ img.instructor-photo {
 
 .image_container {
     float: left;
-    width: 33.33%;
+    width: 50%;
     background-size: cover;
     overflow: hidden;
 }
