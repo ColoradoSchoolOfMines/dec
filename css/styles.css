@@ -23,8 +23,9 @@ a:hover {
 }
 
 .content {
-	max-width: 80%;
+	max-width: 100%;
 	min-height: 500px;
+    max-height: auto;
 	margin: auto;
 	display: block;
 	border: 3px outset #1abc9c;
