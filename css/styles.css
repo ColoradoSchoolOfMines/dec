@@ -83,7 +83,7 @@ img.instructor-photo {
 
 /*--In Action page picture grid */
 
-ol.in_action, ul.in_action {
+in_action ul {
     list-style: none;
     line-height: 0;
 }
