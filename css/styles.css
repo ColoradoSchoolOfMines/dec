@@ -83,6 +83,9 @@ img.instructor-photo {
 }
 
 /*--In Action page picture grid */
+.site_links li {
+    list-style: none;
+}
 
 .image_main_container img {
     width:  100%;
