@@ -85,7 +85,7 @@ img.instructor-photo {
 /*--In Action page picture grid */
 .summer_eight ul, .summer_eight ol {
     list-style: none;
-    line-height: 5px;
+    line-height: 30px;
 }
 
 .image_main_container img {
