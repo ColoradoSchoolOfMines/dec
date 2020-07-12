@@ -137,21 +137,6 @@ img.instructor-photo {
     display:none;
 }
 
-.media p {
-    font-size: 1.5rem;
-    text-align:center;
-    position:absolute;
-    top:50%;
-    width:100%;
-    transform:translate(0%,-50%);
-    -webkit-transform:translate(0%,-50%);
-    -ms-transform:translate(0%,-50%);
-    color:#FFFFFF;
-    font-family:Arial;
-    text-transform:uppercase;
-    display:none;
-}
-
 .image_container:hover img {
     filter: brightness(0.3);
     -webkit-filter:brightness(0.3);
@@ -159,7 +144,7 @@ img.instructor-photo {
 }
 
 .image_container:hover h2, .image_container:hover p {
-    display: block;
+    display: inline;
 }
 
 @media only screen and (max-width : 1000px) {
