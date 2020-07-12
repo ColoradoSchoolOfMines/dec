@@ -90,7 +90,7 @@ img.instructor-photo {
 }
 */
 
-.image_main_container {
+.image_main_container div {
     display: block;
 }
 .image_main_container ul, .image_main_container ol {
