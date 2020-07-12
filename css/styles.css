@@ -90,6 +90,9 @@ img.instructor-photo {
 }
 */
 
+.image_main_container {
+    display: block;
+}
 .image_main_container ul, .image_main_container ol {
     list-style: none;
     line-height: 0;
